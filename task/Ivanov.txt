@@ -1,0 +1,4 @@
+Sex - m;
+Phone number - 70003456778;
+Date of birth - 20.06.1974;
+Full name - Ivanov,Ivan,Ivanovich;

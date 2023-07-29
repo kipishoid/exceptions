@@ -1,0 +1,4 @@
+Sex - f;
+Phone number - 70001536789;
+Date of birth - 01.01.2000;
+Full name - Ivanova,Eva,Mihalovna;
